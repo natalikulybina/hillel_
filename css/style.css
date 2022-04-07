@@ -8,6 +8,10 @@
     margin-right: auto;
 }
 
+.navigation {
+    margin: 0px;
+}
+
 dl.navigation dt {
     display: inline-block;
     font-family: 'Roboto';
