@@ -10,6 +10,7 @@
 
 .navigation {
     margin: 0px;
+    padding: 0px;
 }
 
 .link {
@@ -17,7 +18,7 @@
     color: #000000;
 }
 
-dl.navigation dt {
+ul.navigation li {
     display: inline-block;
     font-family: 'Roboto';
     font-weight: 400px;
@@ -30,7 +31,7 @@ dl.navigation dt {
     margin-left: 42px;
 }
 
-dl.navigation .nav_color__ml0 {
+ul.navigation .nav_color__ml0 {
     color: #34547A;
     margin-left: 0px;
 }
@@ -118,7 +119,7 @@ dl.navigation .nav_color__ml0 {
     height: 50px;
 }
 
-dl.img dt {
+ul.img li {
     display: inline-block;
 }
 
