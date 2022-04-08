@@ -110,27 +110,27 @@ ul.navigation .nav_color__ml0 {
     background-color: #34547A;
 }
 
-.img {
+.numbers {
     padding: 100px 0 100px 0;
     margin: 0px;
 }
-.img_size {
+.numbers__item_img {
     width: 50px;
     height: 50px;
 }
 
-ul.img li {
+ul.numbers li {
     display: inline-block;
 }
 
-.img_text {
+.numbers__item_text {
     display: inline-block;
     margin-left: 20px;
     margin-right: 45px;
     font-family: 'Roboto';
 }
 
-.img_text h3 {
+.numbers__item_text h3 {
     width: 36px;
     height: 19px;
     margin-bottom: 0px;
@@ -140,7 +140,7 @@ ul.img li {
     color: #FFFFFF;
 }
 
-.img_text p {
+.numbers__item_text p {
     margin-top: 10px;
     margin-bottom: 0px;
     width: 71px;
@@ -151,7 +151,7 @@ ul.img li {
     color: #FFFFFF;
 }
 
-.img_mr {
+.numbers__item_mr {
     margin-right: 0px;
 }
 
