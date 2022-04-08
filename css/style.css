@@ -12,6 +12,11 @@
     margin: 0px;
 }
 
+.link {
+    text-decoration: none;
+    color: #000000;
+}
+
 dl.navigation dt {
     display: inline-block;
     font-family: 'Roboto';
